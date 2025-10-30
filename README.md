@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 30-10-2025 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -26,7 +26,7 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/8736080c-f421-4dd0-bae8-860df6f3583e)
 
-### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
+### Step 5-.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/98458892-2f68-4de0-bec7-24959ec598fa)
 
@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="1037" height="579" alt="image" src="https://github.com/user-attachments/assets/bea31c36-4e95-4548-8a74-8740c0563a8e" />
 
-### Name:
-### Register Number:
+### Name: Priyadharshan S
+### Register Number: 212223240127
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
